@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{bcb786ef-01fc-4169-924d-7bf0372ab644}">
+		<property name="note" />
 		<property name="color">
 			<value>Red</value>
 		</property>

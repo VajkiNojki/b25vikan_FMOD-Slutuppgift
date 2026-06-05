@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{a8b2908b-9b9b-4ff1-9526-44e946cbcdb5}">
+		<property name="note">
+			<value>A 3D sound for when the player shoots on the door switch to open the doors in the game.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>
@@ -8,7 +11,7 @@
 			<value>Int_DoorLight</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{82e35b51-27f4-422a-8941-801af50fe790}</destination>
@@ -239,6 +242,7 @@
 	<object class="MixerBusEffectChain" id="{00a90013-a495-4b8b-a871-999fe944c6ff}">
 		<relationship name="effects">
 			<destination>{ab26a2a4-9f20-4b61-95ed-e0fd65c5d2bb}</destination>
+			<destination>{7d24798d-a425-437a-82b0-658560b9dcaa}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{b8ff6b92-ec53-49b4-8ecf-9aa5e2abfb92}" />
@@ -292,6 +296,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{0244ce43-5959-43d7-b9c0-0d7ec254c144}" />
 	<object class="MixerBusFader" id="{ab26a2a4-9f20-4b61-95ed-e0fd65c5d2bb}" />
+	<object class="SpatialiserEffect" id="{7d24798d-a425-437a-82b0-658560b9dcaa}" />
 	<object class="AutomationPoint" id="{ae23afc4-964a-47b2-a575-af58e2a00346}">
 		<property name="position">
 			<value>0.050000000000000003</value>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{01ce99fb-31a3-4e4e-b2d4-8e4c20bb9f12}">
+		<property name="note">
+			<value>A 3D sound for when the Spitter and Chomper dies in the game.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

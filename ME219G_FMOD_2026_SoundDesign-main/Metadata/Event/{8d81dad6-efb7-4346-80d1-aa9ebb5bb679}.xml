@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8d81dad6-efb7-4346-80d1-aa9ebb5bb679}">
+		<property name="note">
+			<value>A 3D sound for when the gunner shoots a laser at you.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{11f7bf6e-7f5f-4294-bc49-3f40ad59b6fd}">
+		<property name="note">
+			<value>A 2D event for when the player pickups a key in the game.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

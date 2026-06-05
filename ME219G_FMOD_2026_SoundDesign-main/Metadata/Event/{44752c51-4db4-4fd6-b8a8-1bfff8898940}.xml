@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{44752c51-4db4-4fd6-b8a8-1bfff8898940}">
+		<property name="note">
+			<value>A 3D sound for when the enemy chomper attacks you in the game.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

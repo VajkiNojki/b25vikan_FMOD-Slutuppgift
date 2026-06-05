@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e973e365-e907-4a29-bbf2-1335abfa51f4}">
+		<property name="note">
+			<value>A 2D event for RainStrength that act like this... The more you go up on the scale, the more intense the rain becomes. It also has seek speed so it doesnt transition too fast. 0.00 = Lowest intensity. 1.00 = Highest intensity.</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

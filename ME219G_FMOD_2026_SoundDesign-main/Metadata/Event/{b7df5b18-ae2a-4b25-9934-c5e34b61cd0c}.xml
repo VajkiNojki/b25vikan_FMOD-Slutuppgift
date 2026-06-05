@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b7df5b18-ae2a-4b25-9934-c5e34b61cd0c}">
+		<property name="note">
+			<value>A 3D sound for when the player breaks a wall in the game.</value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b6af0d69-0e12-4db0-9466-448c88777adf}">
+		<property name="note">
+			<value>A 2D event for when the player takes damage in the game.</value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>

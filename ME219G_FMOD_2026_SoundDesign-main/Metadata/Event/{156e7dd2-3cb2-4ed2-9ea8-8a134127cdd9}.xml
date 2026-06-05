@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{156e7dd2-3cb2-4ed2-9ea8-8a134127cdd9}">
+		<property name="note">
+			<value>A 2D sound for when the Player takes a footstep on the ground.
+I have also parameter logic for the Surface which is catogorized in a labeled parameter:
+value 0 = Grass
+value 1 = Rock
+value 2 = Metal
+
+Initial value is Grass.</value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>

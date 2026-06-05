@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{210131c4-7507-4776-9514-8087151cdbba}">
+		<property name="note">
+			<value>Old Steam sound. "NOT IN THE GAME"</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1cd1e696-62f4-46e2-becf-86c8cf97f71e}">
+		<property name="note">
+			<value> A 3D sound for when the player opens the door in the game.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

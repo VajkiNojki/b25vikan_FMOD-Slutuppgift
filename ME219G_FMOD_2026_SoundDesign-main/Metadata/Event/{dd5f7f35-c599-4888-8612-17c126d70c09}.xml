@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{dd5f7f35-c599-4888-8612-17c126d70c09}">
+		<property name="note">
+			<value>A 3D event Ambiance in the game that has a loop region.</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{f4cd102a-3b6a-469a-aa18-07dd3868d857}">
 		<property name="note">
-			<value>Ljud från SP1. Foley ljud Sax, lager på lager. EQ, timestrech, cutting  etc. Whoosh ljud som layer.</value>
+			<value>Ljud från SP1. Foley ljud Sax, lager på lager. EQ, timestrech, cutting  etc. Whoosh ljud som layer. A 2D sound for when you click in the menu.</value>
 		</property>
 		<property name="color">
 			<value>Blue Light 1</value>

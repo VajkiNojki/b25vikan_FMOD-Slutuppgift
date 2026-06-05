@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8e782677-b21d-42ae-9cf4-13ae36b8c5ad}">
+		<property name="note">
+			<value>A 2D event for when the player jumps in the game.</value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>

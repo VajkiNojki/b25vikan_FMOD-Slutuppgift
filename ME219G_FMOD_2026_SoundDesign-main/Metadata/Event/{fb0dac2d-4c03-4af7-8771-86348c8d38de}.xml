@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{fb0dac2d-4c03-4af7-8771-86348c8d38de}">
+		<property name="note">
+			<value>Here is where i've managed all of my ambience in the game. We also have many different parameters that works differently for each of them. Every one of them goes from value 0.00 - 1.00. The more up you go on the scale, the more intense the sound becomes. I also have a snapshot for when the player enters a cave that has a reverb and delay effect. The parameter Location tho is a labeled parameter that goes from value 0 - 1. 0 = Outside, 1 = Inside. I also have magnet and loop regions to make it a loop and smooth transitions between them.</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

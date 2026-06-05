@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b8b64e1f-2f95-47d2-aefd-ff8a30345d64}">
+		<property name="note">
+			<value>A 2D Loop ambience for when the player is outdoors.</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

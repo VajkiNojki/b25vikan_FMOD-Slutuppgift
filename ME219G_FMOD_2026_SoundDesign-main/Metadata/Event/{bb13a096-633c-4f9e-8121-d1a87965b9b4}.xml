@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bb13a096-633c-4f9e-8121-d1a87965b9b4}">
+		<property name="note">
+			<value>A 2D event for when the player pickups health in the game.</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

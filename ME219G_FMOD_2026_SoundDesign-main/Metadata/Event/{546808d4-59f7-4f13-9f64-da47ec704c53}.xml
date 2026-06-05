@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{546808d4-59f7-4f13-9f64-da47ec704c53}">
 		<property name="note">
-			<value> FoleyStudio Slapping on metallic things. </value>
+			<value>A 3D sound for when the Gunner walks in the game. </value>
 		</property>
 		<property name="color">
 			<value>Red</value>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{dca3f8db-bdc0-442a-b411-f5943cce283f}">
-		<property name="note" />
+		<property name="note">
+			<value>A 3D event for birds that have a loop region. You can only hear this in the beginning of the game when you see and stand under the "Vines".</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>

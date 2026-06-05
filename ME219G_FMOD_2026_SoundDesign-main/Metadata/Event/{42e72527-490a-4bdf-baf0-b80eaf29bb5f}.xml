@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{42e72527-490a-4bdf-baf0-b80eaf29bb5f}">
 		<property name="note">
-			<value>Metal slinky spring som foley ljud från niklas han själv! Timestreched, Distortion, Parametric EQ, Pitch randomzation, Pitch Shifter, Synth layer with vital. Detta gjordes i FL studio, som jag sedan har finslipat här i FMOD.</value>
+			<value>Metal slinky spring som foley ljud från niklas han själv! Timestreched, Distortion, Parametric EQ, Pitch randomzation, Pitch Shifter, Synth layer with vital. Detta gjordes i FL studio, som jag sedan har finslipat här i FMOD. A 2D even for when the player shoots their lasergun in the game.</value>
 		</property>
 		<property name="color">
 			<value>Cyan</value>

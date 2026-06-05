@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{f41fee09-521d-49ea-93bf-2d18d7c58f07}">
+		<property name="note">
+			<value>A 2D sound for when the Gunner dies in the game.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1b1b1908-1abd-4418-adbf-51675f634c23}">
 		<property name="note">
-			<value>Ljud från SP1. Tamburin foley. EQ, layers, reverb, timestrech mm. </value>
+			<value>Ljud från SP1. Tamburin foley. EQ, layers, reverb, timestrech mm. A 2D oneshot for when you start the game.</value>
 		</property>
 		<property name="color">
 			<value>Blue Light 1</value>

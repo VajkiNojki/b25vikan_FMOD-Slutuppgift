@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7392205c-d92a-45c1-a152-21f902ef6ac4}">
+		<property name="note">
+			<value>A 3D sound for when the Steam state goes up and down on the enemy gunner in the game. Logic is "SteamState" where the parameter goes from the range 1 to 2.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

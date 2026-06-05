@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1d0cb097-ea59-4ed1-b750-2739c7881d11}">
+		<property name="note">
+			<value>A 2D event for when the player pushes the box in the game. I have a loop and transition regions, to make this logic possible in the game. I also have a discrete parameter that has values from 0 - 1. </value>
+		</property>
 		<property name="color">
 			<value>Magenta Light 1</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b146ccd2-bebc-4662-8788-7a50fef5d085}">
+		<property name="note">
+			<value>A 3D sound for when the shield state goes up and down on the enemy gunner in the game. Logic is "ShieldState" where the parameter goes from the range 0 to 1.</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e43cdec6-d9f3-4325-b121-adb32447ae4b}">
+		<property name="note">
+			<value>A 3D event ambience for the acidpool in the game.</value>
+		</property>
 		<property name="color">
 			<value>Green Light 1</value>
 		</property>
