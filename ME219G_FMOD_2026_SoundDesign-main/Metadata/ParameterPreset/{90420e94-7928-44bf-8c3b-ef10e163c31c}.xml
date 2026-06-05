@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{90420e94-7928-44bf-8c3b-ef10e163c31c}">
+		<property name="name">
+			<value>ChomperWalk</value>
+		</property>
+		<relationship name="folder">
+			<destination>{4fd77646-e3c6-4d39-b490-f41d42833c1b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{59ab97ab-82f8-4566-929e-0b3e7ad5bbe8}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{59ab97ab-82f8-4566-929e-0b3e7ad5bbe8}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Walk</value>
+			<value>Run</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

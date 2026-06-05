@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{b4c03052-ea71-4864-a343-a8ef66a6f05c}">
+		<property name="name">
+			<value>ChompXSpit</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{4f85444d-5bcf-4e17-a1fa-c0e354fea684}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{d8936e14-7b2b-4115-abb7-121ff9ee756e}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{50dd3d34-8d8e-4b1f-a065-a69bb7c14e98}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{4f85444d-5bcf-4e17-a1fa-c0e354fea684}">
+		<relationship name="effects">
+			<destination>{930d135b-7bf3-4375-86ea-c66d0f8689a5}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{d8936e14-7b2b-4115-abb7-121ff9ee756e}" />
+	<object class="MixerBusFader" id="{930d135b-7bf3-4375-86ea-c66d0f8689a5}" />
+</objects>

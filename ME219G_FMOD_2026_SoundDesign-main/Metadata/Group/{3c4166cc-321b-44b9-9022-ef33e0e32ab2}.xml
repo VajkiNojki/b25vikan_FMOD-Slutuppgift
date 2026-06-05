@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{3c4166cc-321b-44b9-9022-ef33e0e32ab2}">
+		<property name="color">
+			<value>Red</value>
+		</property>
+		<property name="volume">
+			<value>6.5</value>
+		</property>
+		<property name="name">
+			<value>Lightning</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{b9ef02dc-31df-4504-8aef-b1c240f09b3b}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{e523b6d3-1dc8-4967-9e52-66d3bb3bc92a}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{fba1aca4-d953-4ad3-aa15-ec2fdb573060}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{b9ef02dc-31df-4504-8aef-b1c240f09b3b}">
+		<relationship name="effects">
+			<destination>{451a6f3d-31ab-47d0-a651-04f9ed88659f}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{e523b6d3-1dc8-4967-9e52-66d3bb3bc92a}" />
+	<object class="MixerBusFader" id="{451a6f3d-31ab-47d0-a651-04f9ed88659f}" />
+</objects>

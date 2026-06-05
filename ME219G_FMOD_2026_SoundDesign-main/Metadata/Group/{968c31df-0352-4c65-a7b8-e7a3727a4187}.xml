@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{968c31df-0352-4c65-a7b8-e7a3727a4187}">
+		<property name="volume">
+			<value>10</value>
+		</property>
+		<property name="name">
+			<value>InsideCave</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{6b6e6593-1120-4add-bdbd-981f4113c6f5}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{02c19e88-d42a-4e0e-9598-ee1522272e6e}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{bb55a91c-22a0-4059-91e8-fa248974d808}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{6b6e6593-1120-4add-bdbd-981f4113c6f5}">
+		<relationship name="effects">
+			<destination>{7fe516f7-469a-449c-a464-3a744b628974}</destination>
+			<destination>{550551aa-8bce-4caf-a451-f8a7eed22996}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{02c19e88-d42a-4e0e-9598-ee1522272e6e}" />
+	<object class="MixerBusFader" id="{7fe516f7-469a-449c-a464-3a744b628974}" />
+	<object class="DistortionEffect" id="{550551aa-8bce-4caf-a451-f8a7eed22996}">
+		<property name="level">
+			<value>0.50999999</value>
+		</property>
+	</object>
+</objects>

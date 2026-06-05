@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{1d15dfe9-792f-4481-9655-e4cffbf49c24}">
+		<property name="color">
+			<value>Cyan</value>
+		</property>
+		<property name="volume">
+			<value>-5</value>
+		</property>
+		<property name="name">
+			<value>PlayerHurt</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{9dde6e35-3cd6-4ae5-a1b6-724b16ee5fa6}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{48a3271c-da33-454d-8c05-25a85e26ea5e}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{f81ab533-0975-47f5-83b0-31754c952005}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{9dde6e35-3cd6-4ae5-a1b6-724b16ee5fa6}">
+		<relationship name="effects">
+			<destination>{4330caa3-96d1-44db-a7df-a815c9b33af2}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{48a3271c-da33-454d-8c05-25a85e26ea5e}" />
+	<object class="MixerBusFader" id="{4330caa3-96d1-44db-a7df-a815c9b33af2}" />
+</objects>
