@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{5e000aba-c59c-4012-b0bf-303bdcff6536}">
+		<property name="color">
+			<value>Red</value>
+		</property>
+		<property name="volume">
+			<value>7</value>
+		</property>
+		<property name="name">
+			<value>EnemyDeath</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{54daf62b-dcb2-4379-853c-3ed05900537d}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{b56f7b33-446d-4155-bc3b-bc572edccaf6}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{b4c03052-ea71-4864-a343-a8ef66a6f05c}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{54daf62b-dcb2-4379-853c-3ed05900537d}">
+		<relationship name="effects">
+			<destination>{fe0ba78d-70a0-4850-aac6-74d545b36273}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{b56f7b33-446d-4155-bc3b-bc572edccaf6}" />
+	<object class="MixerBusFader" id="{fe0ba78d-70a0-4850-aac6-74d545b36273}" />
+</objects>
