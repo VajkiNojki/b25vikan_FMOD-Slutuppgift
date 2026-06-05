@@ -4,6 +4,9 @@
 		<property name="color">
 			<value>Cyan</value>
 		</property>
+		<property name="volume">
+			<value>-3.29999995</value>
+		</property>
 		<property name="name">
 			<value>AcidPool</value>
 		</property>

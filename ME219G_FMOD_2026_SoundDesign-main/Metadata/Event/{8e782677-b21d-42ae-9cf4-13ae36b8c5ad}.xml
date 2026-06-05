@@ -58,7 +58,7 @@
 			<destination>{d44270f7-bc8d-4dda-8072-8d41e190dca6}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{f81ab533-0975-47f5-83b0-31754c952005}</destination>
+			<destination>{27e56acb-13c6-481f-bc11-06faccfc0a7d}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{00e7f58f-ca10-476c-bba5-e495cf088026}" />
@@ -125,6 +125,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{56026481-7d25-4cd2-a42b-6b9c10952314}">
+		<property name="volume">
+			<value>-15</value>
+		</property>
 		<property name="name">
 			<value>LeatherJacket</value>
 		</property>

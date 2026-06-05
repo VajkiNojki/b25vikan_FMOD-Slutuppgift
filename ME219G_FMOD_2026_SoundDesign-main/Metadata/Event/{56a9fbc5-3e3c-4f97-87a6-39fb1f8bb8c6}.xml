@@ -167,7 +167,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{9e18fe25-4eb5-410b-9ce3-4d80d8790055}">
 		<property name="volume">
-			<value>4.5</value>
+			<value>7</value>
 		</property>
 		<property name="name">
 			<value>Surface</value>
@@ -205,7 +205,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{6ce29108-7c25-488d-9ebb-b88d167c79e3}">
 		<property name="volume">
-			<value>-2</value>
+			<value>-15.5</value>
 		</property>
 		<property name="name">
 			<value>Chains</value>
@@ -240,7 +240,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{2de73720-be3a-492c-9a6e-775f6113976d}">
 		<property name="volume">
-			<value>1.5</value>
+			<value>-5</value>
 		</property>
 		<property name="name">
 			<value>Land</value>
